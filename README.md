@@ -16,7 +16,7 @@
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,pandas,html,css,js,bootstrap,git,github,vscode,sqlite,docker" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,pandas,html,css,js,bootstrap,git,github,vscode,sqlite,docker&theme=dark" alt="Tecnologias"/>
 </p>
 
 <hr>
