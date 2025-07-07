@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner.gif" alt="Banner com saudação e meu nome, Alvaro May Filho">
+  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner.jpeg" alt="Banner com saudação e meu nome, Alvaro May Filho">
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:alvaromayfilho30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="[[SEU-LINK-DO-LINKEDIN]](https://www.linkedin.com/in/alvaromayfilho/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/alvaromayfilho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://wa.me/5569993211579" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
@@ -31,6 +31,7 @@
 
 <br>
 <hr>
+
 <p align="center">
   "A arte de programar consiste em organizar e dominar a complexidade." - Edsger W. Dijkstra
 </p>
