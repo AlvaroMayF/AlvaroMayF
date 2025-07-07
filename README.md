@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner2.jpg" alt="Banner com saudação e meu nome, Alvaro May Filho">
+  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner2.jpg" alt="Banner com saudação e meu nome, Alvaro May Filho">
 </h1>
 
 <p align="center">
@@ -16,16 +16,14 @@
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,pandas,selenium,html,css,js,bootstrap" alt="Linguagens e Ferramentas"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,docker" alt="Ferramentas de Desenvolvimento"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,pandas,html,css,js,bootstrap,git,github,vscode,sqlite,docker" alt="Tecnologias"/>
 </p>
 
 <hr>
 
 <h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroMayF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroMayF&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMayF&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
