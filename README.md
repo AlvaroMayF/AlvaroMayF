@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner.jpeg" alt="Banner com saudação e meu nome, Alvaro May Filho">
+  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner2.jpeg" alt="Banner com saudação e meu nome, Alvaro May Filho">
 </h1>
 
 <p align="center">
