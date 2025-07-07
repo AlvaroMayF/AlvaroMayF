@@ -24,7 +24,7 @@
 <h2 align="center">📊 Minhas Atividades e Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?user=AlvaroMayF&theme=tokyonight&color_snake=79d1a9&color_dots=303659,2d314f,2a2d47,24283b,1f2233" alt="Snake animation"/>
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=AlvaroMayF&color_snake=79d1a9&color_dots=303659,2d314f,2a2d47,24283b,1f2233" alt="Snake animation"/>
 </div>
 
 <div align="center">
