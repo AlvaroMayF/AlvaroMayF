@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner2.jpg" alt="Banner com saudação e meu nome, Alvaro May Filho">
+  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner2.jpg" alt="Banner com saudação e meu nome, Alvaro May Filho">
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <h2 align="center">📊 Minhas Atividades e Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?user=AlvaroMayF" alt="Snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroMayF&theme=tokyo_night&hide_border=true&hide_title=false&line=c792ea&point=7aa2f7&area=true&area_color=292d3e" alt="Gráfico de Contribuições"/>
 </div>
 
 <div align="center">
