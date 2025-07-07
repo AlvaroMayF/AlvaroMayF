@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner2.jpg" alt="Banner com saudação e meu nome, Alvaro May Filho">
+  <img src="https://raw.githubusercontent.com/AlvaroMayF/AlvaroMayF/main/assets/banner2.png" alt="Banner com saudação e meu nome, Alvaro May Filho">
 </h1>
 
 <p align="center">
@@ -21,10 +21,15 @@
 
 <hr>
 
-<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
+<h2 align="center">📊 Minhas Atividades e Estatísticas</h2>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroMayF&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMayF&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=AlvaroMayF&theme=tokyonight&color_snake=79d1a9&color_dots=303659,2d314f,2a2d47,24283b,1f2233" alt="Snake animation"/>
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlvaroMayF&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMayF&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br>
